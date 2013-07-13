@@ -1,3 +1,9 @@
+<html>
+    <head>
+        <title>TESTE DE FUNÇÃO RECURSIVA</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
 <?php
 //exemplo pratico de função recursiva
 function fatorial($numero) {
@@ -15,3 +21,6 @@ echo "O fatorial de 15 é ".fatorial(15)." <br>";
 echo "<br>";
 echo "esta linha é somente para demonstrar o uso do github.";
 ?>
+    </body>
+</html>
+
